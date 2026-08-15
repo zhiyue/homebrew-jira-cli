@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 cask "kimi-work" do
-  version "3.1.8"
+  version "3.1.9"
 
   url "https://kimi-img.moonshot.cn/app/download/mac/kimi_#{version}.dmg"
-  sha256 "3dfc53dbb658e4cb3a2e596df44829bd16c6f3f1a86063c52c8234d5ee48951b"
+  sha256 "bbe17ae3d12c9f95b751d3da8c891773e92bee0a70879c0992f0ff88a31fbdf9"
 
   name "Kimi"
   desc "AI-powered work assistant by Moonshot AI"
